@@ -1,0 +1,33 @@
+{
+  "name": "w3.event",
+  "version": "1.0.0",
+  "description": "Fully Decentralized Events Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laborigin/w3.event.git"
+  },
+  "keywords": [
+    "web3",
+    "events",
+    "socialFi",
+    "blockchain",
+    "decentralization"
+  ],
+  "author": "cuegod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laborigin/w3.event/issues"
+  },
+  "homepage": "https://github.com/laborigin/w3.event#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "install": "^0.13.0",
+    "npm": "^8.19.1",
+    "web3": "^1.7.5"
+  }
+}
